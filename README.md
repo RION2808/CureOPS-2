@@ -1,3 +1,5 @@
+# 🏥 CureOPS: AI-Powered Patient Triage Platform
+
 Our project is an **AI-powered patient triage and hospital assistance platform** designed to help healthcare staff quickly assess and prioritize patients based on the urgency of their condition.
 
 The platform collects important patient information such as symptoms, pain severity, oxygen levels, blood pressure, injuries, and other relevant indicators. Using these inputs, the system generates an **urgency score from 1–5**, helping medical staff identify cases that may require faster attention.
